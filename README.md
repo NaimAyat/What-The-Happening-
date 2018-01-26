@@ -12,6 +12,6 @@ A web app that displays live maps of college campuses. Details times and locatio
 * Best pitch, 2017 UCLA Hack on the Hill Hackathon
 
 ### Screenshot
-<p align="center">
-![Event Description](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/497/314/datas/gallery.jpg)
+<p align="center"> 
+<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/497/314/datas/gallery.jpg">
 </p>
